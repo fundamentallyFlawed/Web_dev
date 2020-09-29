@@ -1,0 +1,25 @@
+h3{
+	color: white;
+}
+
+
+.big_area{
+	background-color: #2C3539;
+	width: 95%;
+	height: 2000px;
+}
+
+p{
+	color: white;
+	font-size: medium;
+}
+
+@media (max-width: 767px){
+   .col-s-12 {
+    
+  }
+  
+  .col-s-12 {
+    width:80%;
+  }
+}
